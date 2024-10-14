@@ -1,0 +1,40 @@
+To play the game, begin by pressing the home button to return home, which contains
+buttons that you can take you to any screen, including the settings, high
+scores, tactics, and game screens. Start by pressing the settings button
+in order to control different aspects of the game.
+
+Here, you can select different game settings including how difficult the words
+are, which custom rocket icon color you would like to play with, the speed of
+the meteorites, and the number of rounds you would like to play the game for.
+Press the home button to return home, and click the game button.
+
+To start playing, press the start button in the top left corner of the screen.
+There will be a rocket on the left side with a word on it, and the there
+will be four asteroids on the right side with words as well. One of the words
+on the asteroids is a synonym of the rocket word, and the other three are
+random words. You may pause and restart if you must.
+Your mission is to drag with your mouse (or use W-A-S-D or up, down, right, left 
+keys to move) the rocket onto the asteroid with the correct synonym of the
+rocket word before the asteroids move offscreen. The bottom portion of the screen
+fills up the circles as you play, red for if you got the word wrong and green if
+you got it right.
+Once you finish, you will be directed to a panel that corrects your mistakes. The words you got
+wrong will show up under the left side, and the correct synonym of that word will show up
+on the right side. If you make mistakes, don't worry, practice makes perfect! From here,
+you can view tactics to improve, but you must take the quiz when you return.
+
+The quiz is on the same words as the game, but with different synonym options to
+test if you truly understood the words' meanings. If you are struggling, you can 
+press the hint button for a hint, which is the antonym of the word. Once you answer,
+press the submit button to see if you got the answer right or wrong.
+
+The correct answer will be highlighted green, and if you got the answer wrong, it
+will be highlighted red. To move onto the next question, press the next question
+button. Once you finish the quiz, press the results button, which takes you to a
+screen that prompts you to type in information to save your score.
+
+If you want your score on the high score board, enter your information
+on this screen. Otherwise, you may return home. Type your 
+name/nickname into the blank field beneath the prompt, and hit enter. 
+This shows you your score, and then you can view the high scores or return home,
+Good luck and have fun on your synonym spaceflight!

@@ -1,0 +1,12 @@
+dananana: 10/10, 100%
+Hello: 9/10, 90%
+kanch: 4/5, 80%
+mommy: 4/5, 80%
+Hola: 8/10, 80%
+Bonjour: 7/10, 70%
+Namaskaram: 6/10, 60%
+Hey: 5/10, 50%
+hello: 2/5, 40%
+blah: 2/8, 25%
+hkghlhkgu: 2/10, 20%
+hello: 0/3, 0%
